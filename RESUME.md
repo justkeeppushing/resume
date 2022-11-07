@@ -1,21 +1,23 @@
 ### Anonymized resume
 
-References and contact information available on request.
+_References and contact information available on request._
 
 Systems engineer specializing in monitoring and observability. I believe
 Conway’s law is apt: systems mirror the communication structures surrounding
 them. Using that adage as a guide, I enjoy weaning systems and teams out of
 “hand holding” phases. Systems can be self-sufficient by adding monitoring,
 alerting, consistency, commentary, doing through audits, and asking questions.
+
 Over the last 10 years I’ve accrued experience from startups, small to medium
-business support, and international companies.  I’m well versed in Python, Bash
+business support, and international companies. I’m well versed in Python, Bash
 (sed/awk) and git, and am comfortable with Agile/Scrum methodologies. I’m
 looking for an engineering team that needs someone who can take on complex,
 specialized, projects in need of organization, but I am also very comfortable
-with structured tasks and typical systems engineering duties. I hope to one day
-be a mentor to other engineers so I can continue to pass down knowledge of UNIX
-and networking as was done to me. My goal is to know what is going on – not just
-keep guessing. 
+with structured tasks and typical systems engineering duties.
+
+I hope to one day be a mentor to other engineers so I can continue to pass down
+knowledge of UNIX and networking as was done to me. My goal is to know what is
+going on – not just keep guessing. 
 
 ### Work history
 
