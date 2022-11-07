@@ -18,12 +18,12 @@ with structured tasks and typical systems engineering duties.
 I hope to one day be a mentor to other engineers so I can continue to pass down
 knowledge of UNIX and networking as was done to me. My goal is to know what is
 going on – not just keep guessing. 
------
 
 
 ## Work history
 
-####DevOps Engineer (2020)
+#### DevOps Engineer (2020)
+
 *Multinational investment bank/financial company*
 
 -	Automate workflows for VMware-backed infrastructure provisioning using VMWare
@@ -36,7 +36,8 @@ going on – not just keep guessing.
 ---
 
 
-####Build/Tools/Release Engineer (2019, 2020)
+#### Build/Tools/Release Engineer (2019, 2020)
+
 *Multinational biotechnology/pharma company*
 
 -	Deployed large-scale production Gitlab + Gitlab Runner instances in AWS using
@@ -55,7 +56,8 @@ independently managed and run data science pipelines (Rust)
 ---
 
 
-####Systems Reliability Engineer (2018, 2019)
+#### Systems Reliability Engineer (2018, 2019)
+
 *Multinational media conglomerate/streaming company*
 
 -	Primary and secondary on-call systems engineer for cloud migration processes
@@ -77,7 +79,8 @@ multi cloud environments
 ---
 
 
-####DevOps Engineer (2016, 2017)
+#### DevOps Engineer (2016, 2017)
+
 *MMO Game Development/Publisher*
 
 -	Created CI/CD pipelines in Jenkins from scratch with Docker, Git, Groovy,
@@ -93,7 +96,8 @@ multi cloud environments
 ---
 
 
-####Linux Systems Administrator & Engineer (2015, 2016)
+#### Linux Systems Administrator & Engineer (2015, 2016)
+
 *AdTech/Data Brokerage Startup*
 
 -	Automated VM provisioning, RPM builds, application deployments, OS upgrades
@@ -114,7 +118,8 @@ analytics/telemetry platforms
 ---
 
 
-####Linux Systems Administrator (2014, 2015)
+#### Linux Systems Administrator (2014, 2015)
+
 *Hosting, Cloud and Domain Provider*
 
 -	Resolved support issues via phone or ticket for small to medium businesses for
@@ -130,7 +135,8 @@ analytics/telemetry platforms
 ---
 
 
-####Junior Systems Administrator (2012, 2013, 2014)
+#### Junior Systems Administrator (2012, 2013, 2014)
+
 *Hosting, Cloud and Domain Provider*
 
 -	Supported billing, sales, DNS configuration, domain transfers, content
