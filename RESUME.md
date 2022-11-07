@@ -29,6 +29,7 @@ going on – not just keep guessing.
 	non-technical audiences
 -	Collaborated with VMware project management and JPMC developers to develop
 	features for vRO and NSXI
+---
 
 *Build/Tools/Release Engineer* – Multinational biotechnology/pharma company
 (2019, 2020)
@@ -45,6 +46,7 @@ independently managed and run data science pipelines (Rust)
 	and AWS features
 -	Created and optimized standard Docker base image for multiple developer teams,
 	and advised on best Docker practices 
+---
 
 *Systems Reliability Engineer* – Multinational media conglomerate/streaming
 company (2018, 2019)
@@ -57,13 +59,14 @@ clusters (supported by AWS Route53 in multiple regions)
 	code access, application deployments, fleet patching and cost management in
 multi cloud environments
 -	Installed monitoring tools, configuration management, alerting, logging,
-	reporting and custom tools alongside all new fleets (New Relic, Splunk,
-Datadog, ServiceNow, Slack)
+	reporting and custom tools alongside all new fleets
+    - New Relic, Splunk,Datadog, ServiceNow, Slack
 -	Preformed maintenance, OS and application patching, database and quorum health
 	monitoring, and executed failovers for MSSQL HA clusters on Windows Server
 2003 – 2016
 -	Bake existing infrastructure into Cloudformation & work with AWS
 	Cloudformation to implement new template features
+---
 
 *DevOps Engineer* - MMO Game Development/Publisher (2016, 2017)
 -	Created CI/CD pipelines in Jenkins from scratch with Docker, Git, Groovy,
@@ -76,6 +79,7 @@ Datadog, ServiceNow, Slack)
 	Grafana, Pagerduty (no prior alert handling)
 -	Provided training to developers during a move to containerized environments
 	(Templatized Dockerfiles w/ Puppet)
+---
 
 *Linux Systems Administrator & Engineer* - AdTech/Data Brokerage Startup (2015,
 2016)
@@ -94,6 +98,7 @@ analytics/telemetry platforms
   	  EC2
 -	Managed OSSEC and Snort, created custom WAF rules for internet-facing
 	applications
+---
 
 *Linux Systems Administrator* - Hosting, Cloud and Domain Provider (2014, 2015)
 -	Resolved support issues via phone or ticket for small to medium businesses for
@@ -106,6 +111,7 @@ analytics/telemetry platforms
 	replacement and host migrations 
 -	Received Openstack training courses - a great head start to virtualization
 	concepts, helped speed up customer response time
+---
 
 *Junior Systems Administrator I & II* - Hosting, Cloud and Domain Provider
 (2012, 2013, 2014)
