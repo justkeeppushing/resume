@@ -66,8 +66,8 @@ Datadog, ServiceNow, Slack)
 	Cloudformation to implement new template features
 
 *DevOps Engineer* - MMO Game Development/Publisher (2016, 2017)
--	 Created CI/CD pipelines in Jenkins from scratch with Docker, Git, Groovy,
-	 Bash and Python
+-	Created CI/CD pipelines in Jenkins from scratch with Docker, Git, Groovy,
+	Bash and Python
 -	Collaborated with Java developers to implement JVM tuning, custom metrics,
 	healthchecks and build/deploy workflows
 -	Managed in-house or colo bare metal Mesosphere clusters used for development
@@ -81,7 +81,7 @@ Datadog, ServiceNow, Slack)
 2016)
 -	Automated VM provisioning, RPM builds, application deployments, OS upgrades
 	and security patching
-  -	Bamboo, SVN/Git, Ansible, Puppet, Python, Bash, Jenkins
+    -	Bamboo, SVN/Git, Ansible, Puppet, Python, Bash, Jenkins
 -	Responsible for on-site server hardware maintenance, rack provisioning and
 	cleanup, and 24/7 operations support
 -	Created or improved monitoring dashboards for all infrastructure,
@@ -89,18 +89,18 @@ Datadog, ServiceNow, Slack)
 -	Worked with developers and third parties to ensure they had access to logging,
 	debugging tools, test environments, and deploys for Windows and Android-based
 analytics/telemetry platforms
-  -	PHP, Java, AngularJS, ReactJS, NodeJS, Go
-  -	MySQL, RabbitMQ, Redis/AWS Redshift, Google App Engine, Google BigQuery, AWS
-  	EC2
+    -	PHP, Java, AngularJS, ReactJS, NodeJS, Go
+    -	MySQL, RabbitMQ, Redis/AWS Redshift, Google App Engine, Google BigQuery, AWS
+  	  EC2
 -	Managed OSSEC and Snort, created custom WAF rules for internet-facing
 	applications
 
 *Linux Systems Administrator* - Hosting, Cloud and Domain Provider (2014, 2015)
 -	Resolved support issues via phone or ticket for small to medium businesses for
 	bare metal server, virtualized server, DNS and email offerings
-  -	Linux, Apache, Nginx, MySQL, PHP, Memcache, Varnish, Redis, BIND, fail2ban
-  -	Postfix, Sendmail, Exim, Dovecot, Courier, various IMAP/POP clients +
-  	troubleshooting
+    -	Linux, Apache, Nginx, MySQL, PHP, Memcache, Varnish, Redis, BIND, fail2ban
+    -	Postfix, Sendmail, Exim, Dovecot, Courier, various IMAP/POP clients +
+  	  troubleshooting
 -	Also preformed PCI compliance resolution, new website host deployments
 -	Communicate with data center teams remotely to assist with hardware
 	replacement and host migrations 
@@ -112,8 +112,8 @@ analytics/telemetry platforms
 -	Supported billing, sales, DNS configuration, domain transfers, content
 	management systems, eCommerce platforms, WYSIWYG editors, web design, and
 webhosting/domain resale platforms
-  -	cPanel, Plesk, Virtuozzo, centOS/RHEL, Ubuntu, Apache, mySQL, PHP, .net/asp,
-  	IIS
+    -	cPanel, Plesk, Virtuozzo, centOS/RHEL, Ubuntu, Apache, mySQL, PHP, .net/asp,
+  	  IIS
 -	Created internal guidebooks and quizzes for employee promotion paths, how-to
 	articles or FAQ for customers or coworkers, guides for new hires and hosted
 internal training sessions for both technical and soft skills
