@@ -1,4 +1,4 @@
-### Anonymized resume
+## Anonymized resume
 
 _References and contact information available on request._
 
@@ -18,10 +18,14 @@ with structured tasks and typical systems engineering duties.
 I hope to one day be a mentor to other engineers so I can continue to pass down
 knowledge of UNIX and networking as was done to me. My goal is to know what is
 going on – not just keep guessing. 
+-----
 
-### Work history
 
-*DevOps Engineer* – Multinational investment bank/financial company (2020)
+## Work history
+
+####DevOps Engineer (2020)
+*Multinational investment bank/financial company*
+
 -	Automate workflows for VMware-backed infrastructure provisioning using VMWare
 	vRealize Orchestrator (vRO)
 -	On-call support for distributed NSX-T cluster deployments and VMWare tooling
@@ -31,8 +35,10 @@ going on – not just keep guessing.
 	features for vRO and NSXI
 ---
 
-*Build/Tools/Release Engineer* – Multinational biotechnology/pharma company
-(2019, 2020)
+
+####Build/Tools/Release Engineer (2019, 2020)
+*Multinational biotechnology/pharma company*
+
 -	Deployed large-scale production Gitlab + Gitlab Runner instances in AWS using
 	Gitlab Pipeline templates
 -	Stabilized “Docker-in-docker” infrastructure as it was previously not failsafe
@@ -48,8 +54,10 @@ independently managed and run data science pipelines (Rust)
 	and advised on best Docker practices 
 ---
 
-*Systems Reliability Engineer* – Multinational media conglomerate/streaming
-company (2018, 2019)
+
+####Systems Reliability Engineer (2018, 2019)
+*Multinational media conglomerate/streaming company*
+
 -	Primary and secondary on-call systems engineer for cloud migration processes
 	from bare-metal to AWS infrastructure; Java and NodeJS running on AWS ECS
 clusters (supported by AWS Route53 in multiple regions) 
@@ -68,7 +76,10 @@ multi cloud environments
 	Cloudformation to implement new template features
 ---
 
-*DevOps Engineer* - MMO Game Development/Publisher (2016, 2017)
+
+####DevOps Engineer (2016, 2017)
+*MMO Game Development/Publisher*
+
 -	Created CI/CD pipelines in Jenkins from scratch with Docker, Git, Groovy,
 	Bash and Python
 -	Collaborated with Java developers to implement JVM tuning, custom metrics,
@@ -81,8 +92,10 @@ multi cloud environments
 	(Templatized Dockerfiles w/ Puppet)
 ---
 
-*Linux Systems Administrator & Engineer* - AdTech/Data Brokerage Startup (2015,
-2016)
+
+####Linux Systems Administrator & Engineer (2015, 2016)
+*AdTech/Data Brokerage Startup*
+
 -	Automated VM provisioning, RPM builds, application deployments, OS upgrades
 	and security patching
     -	Bamboo, SVN/Git, Ansible, Puppet, Python, Bash, Jenkins
@@ -100,7 +113,10 @@ analytics/telemetry platforms
 	applications
 ---
 
-*Linux Systems Administrator* - Hosting, Cloud and Domain Provider (2014, 2015)
+
+####Linux Systems Administrator (2014, 2015)
+*Hosting, Cloud and Domain Provider*
+
 -	Resolved support issues via phone or ticket for small to medium businesses for
 	bare metal server, virtualized server, DNS and email offerings
     -	Linux, Apache, Nginx, MySQL, PHP, Memcache, Varnish, Redis, BIND, fail2ban
@@ -113,8 +129,10 @@ analytics/telemetry platforms
 	concepts, helped speed up customer response time
 ---
 
-*Junior Systems Administrator I & II* - Hosting, Cloud and Domain Provider
-(2012, 2013, 2014)
+
+####Junior Systems Administrator (2012, 2013, 2014)
+*Hosting, Cloud and Domain Provider*
+
 -	Supported billing, sales, DNS configuration, domain transfers, content
 	management systems, eCommerce platforms, WYSIWYG editors, web design, and
 webhosting/domain resale platforms
